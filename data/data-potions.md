@@ -1,0 +1,1 @@
+https://www.hp-lexicon.org/magiccategory/potions/?letter=B
