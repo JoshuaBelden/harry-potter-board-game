@@ -6,6 +6,10 @@
 
 ## C
 
+### Character
+
+Characters are the in-game personas players control. Each character comes with a Character card and a token to track location on the Game Board.
+
 ## D
 
 ## E
@@ -35,6 +39,10 @@ A non-player character is any character that is not directly controlled by a pla
 ## O
 
 ## P
+
+### Player
+
+Player refers to the human sitting at the table controlling a character.
 
 ## Q
 

@@ -18,18 +18,21 @@ Along the left side of the board are blank spots reserved for the cards in the c
 
 Along the top side is the Dueling Track which represents the force of the hero and villain teams. With Dumbledoor on the right and Voldemort on the left, there are eleven spaces, one center starting position, 4 positions in between Dumbledore and Voldemort and a final position on each of them. If the position track ever lands on either Dumbledore or Voldemort, the game ends immediately and vitory goes to the side that pushed the track all the way to it's opponent.
 
-## Turn Tracking
+## Turn Track
 
-
+[TBD]
 
 ## Locations
 
-There are several known locations tha
+The game board consists primarily of locations, represented by a square area on the board with the name of the location. Hogwarts is a special location, in that it also contains smaller squares for rooms.
+
+The board also contains blank areas reserved for locations and rooms that are discovered during game play. Whenever a character
+
+
 
 ### Hogwarts
 
 #### Great Hall
-
 
 All first-years at Hogwarts must take seven subjects: 
 - Transfiguration
