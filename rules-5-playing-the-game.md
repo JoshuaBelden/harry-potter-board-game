@@ -9,6 +9,18 @@
 
 ### Beginning the Game
 
+### Turn Sequence
+
+On your turn you may take any two actions.
+
+#### Move Action
+
+If a player takes the move action, they are able to move their character up to their speed.
+
+#### Travel Action
+
+If a player takes the travel action, they are able to move their character from any one location to another.
+
 ### Winning the Game
 
 #### Game Timer
